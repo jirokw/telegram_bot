@@ -16,9 +16,9 @@
 :local config {
 "Command"="telegram";
 	"botAPI"="xxxxxxxxxx:xxxxxxxxxxxxxxx-xxxxxxxxxxx";
-	"defaultChatID"="xxxxxxxxx";
-	"trusted"="xxxxxxxxx, -xxxxxxxxx";
-	"storage"="";
+	"defaultChatID"="6618483459";
+	"trusted"="6618483459, -xxxxxxxxx";
+	"storage"="10000";
 	"timeout"=5;
 	"refresh_active"=15;
 	"refresh_standby"=300;
